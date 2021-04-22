@@ -1,4 +1,4 @@
-# Raspagem-de-dados-com-Selenium
+# Automação Selenium Python + Excel
 Projeto de Raspagem de dados usando a Biblioteca selenium
 
 # Download
