@@ -8,7 +8,7 @@ download do webdriver chromium versão 90 https://chromedriver.storage.googleapi
 
 # Como funciona
 
-Ao iniciar seu programa deverá navegar até o site mencionado(https://telefonesimportados.netlify.app) e extrair os nomes e valores de cada celular cadastrados no site e os ir inserindo em uma planilha(esta planilha é o relatório que estaremos enviando para o nosso cliente no passo a seguir).
+Ao iniciar seu programa deverá navegar até o site mencionado(https://telefonesimportados.netlify.app) e extrair os nomes e valores de cada celular cadastrado no site e os ir inserindo em uma planilha(esta planilha é o relatório que estaremos enviando para o nosso cliente no passo a seguir).
 
 O seu programa deve parar de buscar quando chegar a página final
 O usuário irá entrar com o link do site desejado e o script irá pegar os dados do no mome do produto e do seu preço e irá criar automaticamente uma planilha
