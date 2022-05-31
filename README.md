@@ -3,11 +3,11 @@ Projeto de Raspagem de dados usando a Biblioteca selenium
 
 # Download
 ```
-pip install selenium </br>
+pip install selenium 
 ```
 
 ```
-pip install xlswriter</br>
+pip install xlswriter
 ```
 download do webdriver chromium versão 90 https://chromedriver.storage.googleapis.com/index.html?path=90.0.4430.24/
 
